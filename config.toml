@@ -71,7 +71,7 @@ author = "Themefisher"
 
 # favicon
 [params.favicon]
-favicon = "images/favicon.png"
+favicon = "images/favicon.svg"
 
 # cookies
 [params.cookies]
@@ -81,12 +81,12 @@ expire_days = 2
 # banner
 [params.banner]
 heading = "The best pool care your pool can have."
-image = "images/2020-landscape-1-2.png"
+image = "images/pool-icons-master-.svg"
 
 
 [params.services]
 first = "we do lots of stuff"
-first_img = "images/2020-landscape-1-2.png"
+first_img = "images/pool-icons-master-.svg"
 second = "we do lots of stuff"
 second_img = "we do lots of stuff"
 third = "we do lots of stuff"
@@ -111,7 +111,7 @@ button_url = "contact/"
 enable = false
 
 [[params.gallery.gallery_item]]
-image = "images/2020-square-2.png"
+image = "images/pool-icons-master-.svg"
 
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"

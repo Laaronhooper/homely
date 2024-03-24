@@ -1,7 +1,7 @@
 ---
 title: "Understand Your Pool Chemicals"
 date: 2024-03-01T10:30:00-07:00
-image : "images/2020-three-quarters-1.png"
+image : "images/pool-chemical-1.svg"
 author: ["Admin"]
 categories: ["Pool Maintenance"]
 tags: ["pool chemicals", "pool sanitation", "ph balance"]

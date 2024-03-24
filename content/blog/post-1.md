@@ -1,7 +1,7 @@
 ---
 title: "Swimming After Adding Chemicals"
 date: 2024-03-01T15:40:24+06:00
-image : "images/2020-three-quarters-1.png"
+image : "images/gloves-1.svg"
 # author
 author : ["Admin"]
 # categories

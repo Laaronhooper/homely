@@ -1,7 +1,7 @@
 ---
 title: "Lowering pH in Your Pool Naturally"
 date: 2024-03-01T10:15:00-07:00
-image : "images/2020-three-quarters-1.png"
+image : "images/pool-chemical-2.svg"
 author: ["Admin"]
 categories: ["Pool Maintenance"]
 tags: ["pool ph", "natural ph reduction", "pool cleaning"]

@@ -1,7 +1,7 @@
 ---
-title: "Exploring Chemical-Free Pools: A Revolutionary Solution"
+title: "Exploring Chemical-Free Pools"
 date: 2024-03-02T10:45:00-07:00
-image : "images/2020-three-quarters-1.png"
+image : "images/pool-filter-1.svg"
 author: ["Admin"]
 categories: ["Pool Innovation"]
 tags: ["chemical-free pool", "pool sanitation", "Fresh Water Systems"]

@@ -294,6 +294,7 @@ Inter variable font. Usage:
 	--ivory: hsl(50, 100%, 95%);
 	--ivory: #fffbe5;
 	--teal: hsl(180, 70%, 30%);
+	--teal: #178282;
 }
 
 /* -------------------------------------------------------------------------- */
@@ -860,10 +861,6 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .hand-drawn-button {
-	border-top-left-radius: 255px 15px !important;
-	border-top-right-radius: 15px 225px !important;
-	border-bottom-right-radius: 225px 15px !important;
-	border-bottom-left-radius:15px 255px !important;
 	border: solid 4px !important;
 	-webkit-appearance: none;
 	-moz-appearance: none;
@@ -3218,6 +3215,11 @@ figure.wp-block-gallery.alignfull {
 }
 
 /* Block: Group ------------------------------ */
+
+.wp-image-37 {
+	max-width: 398px !important;
+	max-height: 298px !important;
+}
 
 .wp-block-group.has-background {
 	padding: 2rem;
